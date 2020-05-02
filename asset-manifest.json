@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/roya/static/css/main.45045902.chunk.css",
+    "main.js": "/roya/static/js/main.0aa028db.chunk.js",
+    "main.js.map": "/roya/static/js/main.0aa028db.chunk.js.map",
+    "runtime-main.js": "/roya/static/js/runtime-main.dfd482b7.js",
+    "runtime-main.js.map": "/roya/static/js/runtime-main.dfd482b7.js.map",
+    "static/js/2.2831d12f.chunk.js": "/roya/static/js/2.2831d12f.chunk.js",
+    "static/js/2.2831d12f.chunk.js.map": "/roya/static/js/2.2831d12f.chunk.js.map",
+    "index.html": "/roya/index.html",
+    "precache-manifest.e3e129ddca359a1729a60096c81ec731.js": "/roya/precache-manifest.e3e129ddca359a1729a60096c81ec731.js",
+    "service-worker.js": "/roya/service-worker.js",
+    "static/css/main.45045902.chunk.css.map": "/roya/static/css/main.45045902.chunk.css.map",
+    "static/js/2.2831d12f.chunk.js.LICENSE.txt": "/roya/static/js/2.2831d12f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dfd482b7.js",
+    "static/js/2.2831d12f.chunk.js",
+    "static/css/main.45045902.chunk.css",
+    "static/js/main.0aa028db.chunk.js"
+  ]
+}
