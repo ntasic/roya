@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5d71f54bae28895c28caa0b2ee4811cd",
+    "revision": "4fd9978e2648a50707ca336b07ee0ea6",
     "url": "/roya/index.html"
   },
   {
-    "revision": "eebc32ef2f89d086095b",
-    "url": "/roya/static/css/main.009ccbd0.chunk.css"
+    "revision": "129fa57f546cce7b0254",
+    "url": "/roya/static/css/main.995b20c1.chunk.css"
   },
   {
     "revision": "97c1acdc96b4091c3ccd",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/roya/static/js/2.2831d12f.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "eebc32ef2f89d086095b",
+    "revision": "129fa57f546cce7b0254",
     "url": "/roya/static/js/main.0aa028db.chunk.js"
   },
   {
