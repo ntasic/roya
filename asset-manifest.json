@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/roya/static/css/main.995b20c1.chunk.css",
+    "main.css": "/roya/static/css/main.efd2263c.chunk.css",
     "main.js": "/roya/static/js/main.0aa028db.chunk.js",
     "main.js.map": "/roya/static/js/main.0aa028db.chunk.js.map",
     "runtime-main.js": "/roya/static/js/runtime-main.dfd482b7.js",
@@ -8,15 +8,15 @@
     "static/js/2.2831d12f.chunk.js": "/roya/static/js/2.2831d12f.chunk.js",
     "static/js/2.2831d12f.chunk.js.map": "/roya/static/js/2.2831d12f.chunk.js.map",
     "index.html": "/roya/index.html",
-    "precache-manifest.8c54d91ac647b7b95d3799c6f068da64.js": "/roya/precache-manifest.8c54d91ac647b7b95d3799c6f068da64.js",
+    "precache-manifest.72372280bd6f4d86182f17fcb45ed97c.js": "/roya/precache-manifest.72372280bd6f4d86182f17fcb45ed97c.js",
     "service-worker.js": "/roya/service-worker.js",
-    "static/css/main.995b20c1.chunk.css.map": "/roya/static/css/main.995b20c1.chunk.css.map",
+    "static/css/main.efd2263c.chunk.css.map": "/roya/static/css/main.efd2263c.chunk.css.map",
     "static/js/2.2831d12f.chunk.js.LICENSE.txt": "/roya/static/js/2.2831d12f.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.dfd482b7.js",
     "static/js/2.2831d12f.chunk.js",
-    "static/css/main.995b20c1.chunk.css",
+    "static/css/main.efd2263c.chunk.css",
     "static/js/main.0aa028db.chunk.js"
   ]
 }
